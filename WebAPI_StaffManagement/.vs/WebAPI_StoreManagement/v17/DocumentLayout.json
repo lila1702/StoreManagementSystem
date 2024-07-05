@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lilaf\\Documents\\My Projects\\StaffManagementWebApp\\WebAPI_StaffManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11906ABB-1587-4243-A547-720D77B46003}|WebAPI_StaffManagement\\WebAPI_StoreManagement.csproj|c:\\users\\lilaf\\documents\\my projects\\staffmanagementwebapp\\webapi_staffmanagement\\webapi_staffmanagement\\service\\staffservice\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11906ABB-1587-4243-A547-720D77B46003}|WebAPI_StaffManagement\\WebAPI_StoreManagement.csproj|solutionrelative:webapi_staffmanagement\\service\\staffservice\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11906ABB-1587-4243-A547-720D77B46003}|WebAPI_StaffManagement\\WebAPI_StoreManagement.csproj|c:\\users\\lilaf\\documents\\my projects\\staffmanagementwebapp\\webapi_staffmanagement\\webapi_staffmanagement\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11906ABB-1587-4243-A547-720D77B46003}|WebAPI_StaffManagement\\WebAPI_StoreManagement.csproj|solutionrelative:webapi_staffmanagement\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11906ABB-1587-4243-A547-720D77B46003}|WebAPI_StaffManagement\\WebAPI_StoreManagement.csproj|c:\\users\\lilaf\\documents\\my projects\\staffmanagementwebapp\\webapi_staffmanagement\\webapi_staffmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11906ABB-1587-4243-A547-720D77B46003}|WebAPI_StaffManagement\\WebAPI_StoreManagement.csproj|solutionrelative:webapi_staffmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11906ABB-1587-4243-A547-720D77B46003}|WebAPI_StaffManagement\\WebAPI_StoreManagement.csproj|c:\\users\\lilaf\\documents\\my projects\\staffmanagementwebapp\\webapi_staffmanagement\\webapi_staffmanagement\\models\\staffmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11906ABB-1587-4243-A547-720D77B46003}|WebAPI_StaffManagement\\WebAPI_StoreManagement.csproj|solutionrelative:webapi_staffmanagement\\models\\staffmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11906ABB-1587-4243-A547-720D77B46003}|WebAPI_StaffManagement\\WebAPI_StoreManagement.csproj|c:\\users\\lilaf\\documents\\my projects\\staffmanagementwebapp\\webapi_staffmanagement\\webapi_staffmanagement\\service\\staffservice\\istaffinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11906ABB-1587-4243-A547-720D77B46003}|WebAPI_StaffManagement\\WebAPI_StoreManagement.csproj|solutionrelative:webapi_staffmanagement\\service\\staffservice\\istaffinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaffModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lilaf\\Documents\\My Projects\\StaffManagementWebApp\\WebAPI_StaffManagement\\WebAPI_StaffManagement\\Models\\StaffModel.cs",
+              "RelativeDocumentMoniker": "WebAPI_StaffManagement\\Models\\StaffModel.cs",
+              "ToolTip": "C:\\Users\\Lilaf\\Documents\\My Projects\\StaffManagementWebApp\\WebAPI_StaffManagement\\WebAPI_StaffManagement\\Models\\StaffModel.cs",
+              "RelativeToolTip": "WebAPI_StaffManagement\\Models\\StaffModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:56:48.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lilaf\\Documents\\My Projects\\StaffManagementWebApp\\WebAPI_StaffManagement\\WebAPI_StaffManagement\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI_StaffManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Lilaf\\Documents\\My Projects\\StaffManagementWebApp\\WebAPI_StaffManagement\\WebAPI_StaffManagement\\Program.cs",
+              "RelativeToolTip": "WebAPI_StaffManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:50:08.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "C:\\Users\\Lilaf\\Documents\\My Projects\\StaffManagementWebApp\\WebAPI_StaffManagement\\WebAPI_StaffManagement\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "WebAPI_StaffManagement\\Controllers\\StaffController.cs",
+              "ToolTip": "C:\\Users\\Lilaf\\Documents\\My Projects\\StaffManagementWebApp\\WebAPI_StaffManagement\\WebAPI_StaffManagement\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "WebAPI_StaffManagement\\Controllers\\StaffController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwDkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:15:08.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffService.cs",
+              "DocumentMoniker": "C:\\Users\\Lilaf\\Documents\\My Projects\\StaffManagementWebApp\\WebAPI_StaffManagement\\WebAPI_StaffManagement\\Service\\StaffService\\StaffService.cs",
+              "RelativeDocumentMoniker": "WebAPI_StaffManagement\\Service\\StaffService\\StaffService.cs",
+              "ToolTip": "C:\\Users\\Lilaf\\Documents\\My Projects\\StaffManagementWebApp\\WebAPI_StaffManagement\\WebAPI_StaffManagement\\Service\\StaffService\\StaffService.cs",
+              "RelativeToolTip": "WebAPI_StaffManagement\\Service\\StaffService\\StaffService.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAmwIUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:18:00.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStaffInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Lilaf\\Documents\\My Projects\\StaffManagementWebApp\\WebAPI_StaffManagement\\WebAPI_StaffManagement\\Service\\StaffService\\IStaffInterface.cs",
+              "RelativeDocumentMoniker": "WebAPI_StaffManagement\\Service\\StaffService\\IStaffInterface.cs",
+              "ToolTip": "C:\\Users\\Lilaf\\Documents\\My Projects\\StaffManagementWebApp\\WebAPI_StaffManagement\\WebAPI_StaffManagement\\Service\\StaffService\\IStaffInterface.cs",
+              "RelativeToolTip": "WebAPI_StaffManagement\\Service\\StaffService\\IStaffInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:18:23.4Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
